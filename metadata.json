@@ -1,0 +1,5 @@
+{
+  "name": "PromptNexus",
+  "description": "Une application structurée pour concevoir des prompts optimisés en utilisant les cadres méthodologiques COSTAR, RTF, BAB et KERNEL.",
+  "requestFramePermissions": []
+}
